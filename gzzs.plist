@@ -11,14 +11,14 @@
  <key>kind</key>                
  <string>software-package</string>                   
  <key>url</key>             
- <string>http://106.40.50.1:8080/fdfs/group1/M00/00/06/wKggSF4FrxqAKU45BNtplTzR-YQ828.ipa</string>          
+ <string>http://106.40.50.1:8080/fdfs/group1/M00/00/06/wKggR14K_EmAerGiBNucjz54jaE807.ipa</string>          
  </dict> </array>          
  <key>metadata</key>       
  <dict>              
  <key>bundle-identifier</key>       
  <string>com.chinatelecom.neimenggu.gongzuozhushou</string>        
  <key>bundle-version</key>          
- <string>1.57</string>           
+ <string>1.58</string>           
  <key>kind</key>             
  <string>software</string>      
  <key>title</key>            
